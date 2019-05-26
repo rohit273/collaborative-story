@@ -1,6 +1,6 @@
 # Building a story together
 
-Using the concepts we learned about version control and GitHub, add one sentence to continue this collaborative story.
+Using the concepts we learned about version control and GitHub, add one sentence to continue the collaborative story in [story.txt](story.txt).
 
 ## An example
 

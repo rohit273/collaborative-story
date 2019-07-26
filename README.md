@@ -20,3 +20,17 @@ or throw them some facts and see how they'll take it from there.
 * Keep it concise. Finish a sentence and start a new one, or stick with one sentence. The story should be written collaboratively by many people to a similar extend.
 * Keep it clean! You should be able to read the story to your kids without additional censorship.
 * Have fun! :)
+
+---
+
+## How to complete this project
+
+By completing this project you'll go through the whole GitHub process that you also use for contributing to any Open Source project. You'll do this to get practice with that _process_.
+
+1. Fork the repo on GitHub
+2. Clone to your local machine using `git clone` and the URL from your fork of the project
+3. Add your sentence to the story
+4. Push it back up to your personal GitHub
+5. Create a _Pull Request_ (PR) from your fork
+
+By creating the PR, you are asking CodingNomads to merge your addition into the repository hosted on CodingNomads' GitHub.
